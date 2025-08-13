@@ -1,5 +1,5 @@
 ---
-title: Local Gp Sp
+title: gpt-load
 emoji: 🐠
 colorFrom: blue
 colorTo: red
