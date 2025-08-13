@@ -1,0 +1,1 @@
+FROM ghcr.io/tbphp/gpt-load:latest
